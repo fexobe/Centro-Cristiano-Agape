@@ -1,3 +1,2 @@
-<h1>hello</h1> 
-- thing 1
-- thing 2
+<h1>I am learning github pages</h1>
+<h2>let's see if this works</h2>
